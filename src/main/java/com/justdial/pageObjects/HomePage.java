@@ -62,6 +62,7 @@ public class HomePage extends BaseClass{
 		searchbtn.click();
 		close.click();
 		System.out.println("First mearge1");
+		System.out.println("123456789");
 	
 
 	}
